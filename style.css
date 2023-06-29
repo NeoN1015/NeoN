@@ -1,0 +1,73 @@
+section h1 {
+    text-align: center;
+    color: BLACK;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 0%;
+    
+   
+    
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+button{
+    text-align: Center;
+    height: 1cm;
+    width: 4cm;
+    background: black;
+    color: green;
+    margin-left: 0%;
+    padding: 10px;
+    
+    
+}
+
+button:hover{
+    background-color: violet;
+  
+}
+
+
+heading {
+    
+}
+ul a{
+    color:Green;
+    margin-left: 10px;
+}
+h2{
+
+    text-align: center;
+}
+h3{
+    padding: 100px;
+    background : url(car.jpg) no-repeat center/cover;
+}
+p{
+    font-size: 20px;
+}
+a{
+    font-size: 20;
+    color: green;
+    text-decoration: none;
+}
+nav{
+     margin: 0%;
+     
+     text-align: Center;
+}
+img{
+     margin-left: 3cm;
+}
+
+a:hover{
+    backbackground-color: blue;
+}
+section div {
+    font-style: italic;
+    font-weight: bold;
+   
+}
